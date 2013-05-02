@@ -6,7 +6,7 @@
 
 Accessing images using nipy:
 
-While Nifti_ is the primary file format Analyze images (with associated .mat
+While Nifti_ is the primary file format, Analyze images (with associated .mat
 file), and MINC files can also be read.
 
 Load Image from File
